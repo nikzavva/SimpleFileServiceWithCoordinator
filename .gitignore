@@ -64,4 +64,5 @@ fastlane/test_output
 # macOS system files
 .DS_Store
 *.DS_Store
+._*
 ._.DS_Store
